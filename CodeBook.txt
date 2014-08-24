@@ -1,0 +1,30 @@
+CODE BOOK
+Coursera - Getting and Cleaning Data - Course Project
+
+
+ActivityType	18
+	Activities performed by the subjects in the test, as described in [1]
+		1   .WALKING
+		2   .WALKING_UPSTAIRS
+		3   .WALKING_DOWNSTAIRS
+		4   .SITTING
+		5   .STANDING
+		6   .LAYING
+
+
+SubjectID		2
+	1..30   .Unique subject identifier
+
+
+Average			10
+	-0.6311102..0.1311927   .Average of each variable of the given dataset [2] for each activity and each subject
+
+
+
+
+
+REFERENCES:
+
+[1] : Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+
+[2] : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip (August 2014)

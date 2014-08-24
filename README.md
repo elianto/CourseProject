@@ -25,5 +25,5 @@ These are the steps performed by the "run_analysis.R" script
 - create tidy data set with the average of each variable for each activity and each subject
 - save tidy data
 
-The script is included in this GitHub repository.
-<>
+The script "run_analysis.R" is included in this GitHub repository, along with the created tidy dataset "tidyData.txt"
+<https://github.com/elianto/CourseProject>

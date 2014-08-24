@@ -12,18 +12,21 @@ ActivityType	18
 		6   .LAYING
 
 
-SubjectID		2
+SubjectID	2
 	1..30   .Unique subject identifier
 
 
-Average			10
+Average		10
 	-0.6311102..0.1311927   .Average of each variable(*) for each subject for a particular activity.
 	
-	(*) variables include the measurements on the mean and standard deviation for each measurement, extracted from [2] as described in the assignment.
+	(*) variables include the measurements on the mean and standard deviation for each measurement, extracted from [2] as
+	described in the assignment.
 
 
 REFERENCES:
 
-[1] : Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+[1] : Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz.
+      Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine.
+      International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
 [2] : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip (August 2014)

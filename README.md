@@ -26,4 +26,4 @@ These are the steps performed by the "run_analysis.R" script
 - save tidy data
 
 The script "run_analysis.R" is included in this GitHub repository, along with the created tidy dataset "tidyData.txt"
-<https://github.com/elianto/CourseProject>
+<https://github.com/elianto/CourseProject.git>

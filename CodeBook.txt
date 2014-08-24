@@ -17,10 +17,9 @@ SubjectID		2
 
 
 Average			10
-	-0.6311102..0.1311927   .Average of each variable of the given dataset [2] for each activity and each subject
-
-
-
+	-0.6311102..0.1311927   .Average of each variable(*) for each subject for a particular activity.
+	
+	(*) variables include the measurements on the mean and standard deviation for each measurement, extracted from [2] as described in the assignment.
 
 
 REFERENCES:
